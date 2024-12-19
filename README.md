@@ -7,8 +7,9 @@ Welcome to my **Data Structures and Algorithms (DSA)** repository! This is a col
 Following Striver's A2Z DSA Sheet for solving these problems and practice on LeetCode and Code360.
 Link to SDE Sheet:  [**Click Here**](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2)
 My Notion Doc (Notes): [**Click Here**](https://brazen-sailboat-416.notion.site/DSA-Python-9a5c3c7b7c1f4aa684821cbd3b089125?pvs=4)
+---
 
-Also checkout my other repository for setting up your VS Code for practicing DSA problems (using Python): [**DSA Setup For VS Code (Python)](https://github.com/soumyadeep423/DSA-Setup-For-VS-Code-Python.git)
+Also checkout my other repository for setting up your VS Code for practicing DSA problems (using Python): [**DSA Setup For VS Code (Python)**](https://github.com/soumyadeep423/DSA-Setup-For-VS-Code-Python.git)
 
 ## 🧩 Solutions
 
