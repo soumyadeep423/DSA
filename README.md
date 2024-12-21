@@ -37,5 +37,6 @@ Also checkout my other repository for setting up your VS Code for practicing DSA
 | Merge Sorted Arrays      | Two-Pointer    | [Link to solution](Arrays/mergeSorted.py) |
 | Majority Element         | Moore's Voting Algorithm    | [Link to solution](Arrays/majorityElement.py) |
 | Check Sorted             | Single Traversal (Comparing current element with the previous element)    | [Link to solution](Arrays/checkSorted.py) |
+| Rotate Array             | Reversal Algorithm    | [Link to solution](Arrays/rotateArray.py) |
 
 
