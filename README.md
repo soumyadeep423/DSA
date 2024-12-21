@@ -12,6 +12,19 @@ My Notion Doc (Notes): [**Click Here**](https://brazen-sailboat-416.notion.site/
 
 Also checkout my other repository for setting up your VS Code for practicing DSA problems (using Python): [**DSA Setup For VS Code (Python)**](https://github.com/soumyadeep423/DSA-Setup-For-VS-Code-Python.git)
 
+## 🧩 Basic Maths Solutions
+
+| Problem                  | Approach                              | Link                                   |
+|--------------------------|---------------------------------------|----------------------------------------|
+| Armstrong Number         | Check if the sum of the cubes of digits equals the number | [Link to solution](Numbers/armstrong.py) |
+| Check Palindrome         | Reverse the number and compare with the original         | [Link to solution](Numbers/checkPalindrome.py) |
+| Check Prime              | Iterate up to the square root of the number to check divisibility | [Link to solution](Numbers/checkPrime.py) |
+| Count Digits             | Divide the number by 10 iteratively and count iterations | [Link to solution](Numbers/countDigits.py) |
+| Divisors                 | Iterate up to the square root and collect divisors       | [Link to solution](Numbers/divisors.py) |
+| GCD                      | Use Euclid's Algorithm                              | [Link to solution](Numbers/gcd.py) |
+| Reverse Number           | Extract digits and reconstruct the number in reverse order | [Link to solution](Numbers/reverseNum.py) |
+
+
 ## 🧩 Arrays Solutions
 
 | Problem                  | Approach          | Link                                   |
