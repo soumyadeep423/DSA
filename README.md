@@ -40,5 +40,6 @@ Also checkout my other repository for setting up your VS Code for practicing DSA
 | Rotate Array             | Reversal Algorithm    | [Link to solution](Arrays/rotateArray.py) |
 | Move Zeroes             | Two-Pointer    | [Link to solution](Arrays/moveZeroes.py) |
 | Best Time To Buy Stock I             | Single Traversal   | [Link to solution](Arrays/bttbs1.py) |
+| Best Time To Buy Stock II             | Single Traversal   | [Link to solution](Arrays/bttbs2.py) |
 
 
