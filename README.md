@@ -11,13 +11,13 @@ Also checkout my other repository for setting up your VS Code for practicing DSA
 
 | Problem                  | Approach                              | Link                                   |
 |--------------------------|---------------------------------------|----------------------------------------|
-| Armstrong Number         | Check if the sum of the cubes of digits equals the number | [Link to solution](Basic Maths/armstrong.py) |
-| Check Palindrome         | Reverse the number and compare with the original         | [Link to solution](Numbers/checkPalindrome.py) |
-| Check Prime              | Iterate up to the square root of the number to check divisibility | [Link to solution](Numbers/checkPrime.py) |
-| Count Digits             | Divide the number by 10 iteratively and count iterations | [Link to solution](Numbers/countDigits.py) |
-| Divisors                 | Iterate up to the square root and collect divisors       | [Link to solution](Numbers/divisors.py) |
-| GCD                      | Use Euclid's Algorithm                              | [Link to solution](Numbers/gcd.py) |
-| Reverse Number           | Extract digits and reconstruct the number in reverse order | [Link to solution](Numbers/reverseNum.py) |
+| Armstrong Number         | Check if the sum of the cubes of digits equals the number | [Link to solution](Basic%20Maths/armstrong.py) |
+| Check Palindrome         | Reverse the number and compare with the original         | [Link to solution](Basic%20Maths/checkPalindrome.py) |
+| Check Prime              | Iterate up to the square root of the number to check divisibility | [Link to solution](Basic%20Maths/checkPrime.py) |
+| Count Digits             | Divide the number by 10 iteratively and count iterations | [Link to solution](Basic%20Maths/countDigits.py) |
+| Divisors                 | Iterate up to the square root and collect divisors       | [Link to solution](Basic%20Maths/divisors.py) |
+| GCD                      | Use Euclid's Algorithm                              | [Link to solution](Basic%20Maths/gcd.py) |
+| Reverse Number           | Extract digits and reconstruct the number in reverse order | [Link to solution](Basic%20Maths/reverseNum.py) |
 
 
 ## 🧩 Arrays Solutions
@@ -44,7 +44,7 @@ Also checkout my other repository for setting up your VS Code for practicing DSA
 
 | Problem                  | Approach          | Link                                   |
 |--------------------------|-------------------|----------------------------------------|
-| Remove Element           | Two-Pointer    | [Link to solution](Arrays/removeElement.py) |
-| Remove Duplicates       | Two-Pointer   | [Link to solution](Arrays/removeDuplicates.py) |
-| Merge Sorted Arrays      | Two-Pointer    | [Link to solution](Arrays/mergeSorted.py) |
-| Move Zeroes             | Two-Pointer    | [Link to solution](Arrays/moveZeroes.py) |
+| Remove Element           | Two-Pointer    | [Link to solution](Arrays%20-%20Two%20Pointers/removeElement.py) |
+| Remove Duplicates       | Two-Pointer   | [Link to solution](Arrays%20-%20Two%20Pointers/removeDuplicates.py) |
+| Merge Sorted Arrays      | Two-Pointer    | [Link to solution](Arrays%20-%20Two%20Pointers/mergeSorted.py) |
+| Move Zeroes             | Two-Pointer    | [Link to solution](Arrays%20-%20Two%20Pointers/moveZeroes.py) |
