@@ -11,7 +11,7 @@ Also checkout my other repository for setting up your VS Code for practicing DSA
 
 | Problem                  | Approach                              | Link                                   |
 |--------------------------|---------------------------------------|----------------------------------------|
-| Armstrong Number         | Check if the sum of the cubes of digits equals the number | [Link to solution](Numbers/armstrong.py) |
+| Armstrong Number         | Check if the sum of the cubes of digits equals the number | [Link to solution](Basic Maths/armstrong.py) |
 | Check Palindrome         | Reverse the number and compare with the original         | [Link to solution](Numbers/checkPalindrome.py) |
 | Check Prime              | Iterate up to the square root of the number to check divisibility | [Link to solution](Numbers/checkPrime.py) |
 | Count Digits             | Divide the number by 10 iteratively and count iterations | [Link to solution](Numbers/countDigits.py) |
