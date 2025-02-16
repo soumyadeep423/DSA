@@ -38,6 +38,8 @@ Also checkout my other repository for setting up your VS Code for practicing DSA
 | Contains Duplicate           | Using a Set   | [Link to solution](Arrays/containsDuplicate.py) |
 | Missing Number          | Using Difference Between Sum of Lengths   | [Link to solution](Arrays/missingNumber.py) |
 | Find All Missing Numbers          | Using a Set   | [Link to solution](Arrays/allMissingNumbers.py) |
+| Number of Islands         | BFS Traversal   | [Link to solution](Arrays/numberOfIslands.py) |
+
 
 
 ## 🧩 Arrays - Two Pointers Solutions
