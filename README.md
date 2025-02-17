@@ -50,3 +50,4 @@ Also checkout my other repository for setting up your VS Code for practicing DSA
 | Remove Duplicates       | Two-Pointer   | [Link to solution](Arrays%20-%20Two%20Pointers/removeDuplicates.py) |
 | Merge Sorted Arrays      | Two-Pointer    | [Link to solution](Arrays%20-%20Two%20Pointers/mergeSorted.py) |
 | Move Zeroes             | Two-Pointer    | [Link to solution](Arrays%20-%20Two%20Pointers/moveZeroes.py) |
+| Squares of a Sorted Array             | Two-Pointer    | [Link to solution](Arrays%20-%20Two%20Pointers/sortedSquares.py) |
